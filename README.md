@@ -12,13 +12,11 @@ CPU scheduling · Memory allocation · Disk scheduling · Deadlock analysis
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org)
 [![Tests](https://img.shields.io/badge/tests-57_passing-brightgreen?style=for-the-badge)](#testing--validation)
 
-<img src="docs/screenshots/dashboard.png" alt="ChronoOS simulation dashboard" width="100%" />
 
 </div>
 
 **ChronoOS** is a browser-first operating system simulator that records every scheduling, allocation and resource decision as an immutable event. Instead of showing only the final Gantt chart or memory map, it lets you **rewind to any tick, reconstruct the exact kernel state, and fork an alternative timeline** to compare strategies side by side.
 
-Built as a B.Tech Computer Science & Engineering minor project at **K.R. Mangalam University** (2026–2027).
 
 ---
 
